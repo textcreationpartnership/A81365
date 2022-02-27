@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The designes of the rebels in Kent. At their rendezvous, the day before the storming of Maidstone. As they were found in a person of qualities pocket, who was taken prisoner, and this day sent up to the House of Commons. Upon which, and other things of note, the Lords and Commons had a conference this day. With the substance of His Excellencies letter to both Houses of Parliament, of a more fuller relation then formerly, having taken so many arms as to make up 4000. 1500 prisoners, and 1500 horse; besides all the country-men, whom the Generall hath discharged, and sent to their own homes. Together, with an act of indempnity passed by the House of Commons for the county of Essex, with their laying down of their armes, and returning to their own habitations. Imprimatur Gilbert Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81365</idno>
+            <idno type="STC">Wing D1178</idno>
+            <idno type="STC">Thomason E446_18</idno>
+            <idno type="STC">ESTC R204838</idno>
+            <idno type="EEBO-CITATION">99864297</idno>
+            <idno type="PROQUEST">99864297</idno>
+            <idno type="VID">161782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161782)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The designes of the rebels in Kent. At their rendezvous, the day before the storming of Maidstone. As they were found in a person of qualities pocket, who was taken prisoner, and this day sent up to the House of Commons. Upon which, and other things of note, the Lords and Commons had a conference this day. With the substance of His Excellencies letter to both Houses of Parliament, of a more fuller relation then formerly, having taken so many arms as to make up 4000. 1500 prisoners, and 1500 horse; besides all the country-men, whom the Generall hath discharged, and sent to their own homes. Together, with an act of indempnity passed by the House of Commons for the county of Essex, with their laying down of their armes, and returning to their own habitations. Imprimatur Gilbert Mabbot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  Kent --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Kent --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161782:1" rendition="simple:additions"/>
+            <p>THE DESIGNES OF THE Rebels in Kent.</p>
+            <p>At their Rendezvous, the day before the ſtorming of <hi>Maidſtone.</hi>
+            </p>
+            <p>As they were found in a perſon of qualities pocket, who was taken priſoner, and this day ſent up to the Houſe of Commons. Upon which, and other things of note, the Lords and Commons had a Confe<g ref="char:EOLhyphen"/>rence this day.</p>
+            <p>With the ſubſtance of His Excellencies Letter to both Houſes of Parliament, of a more fuller Rela<g ref="char:EOLhyphen"/>tion then formerly, having taken ſo many Arms as to make up 4000. 1500 priſoners, and 1500 horſe; beſides all the Country-men, whom the Ge<g ref="char:EOLhyphen"/>nerall hath diſcharged, and ſent to their own homes.</p>
+            <p>TOGETHER, With an Act of Indempnity paſſed by the Houſe of Commons for the County of <hi>Eſſex,</hi> with their laying down of their Armes, and returning to their own Habitations.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <add>June 7<hi rend="sup">th</hi>
+                                 </add>
+                              </date>
+                           </dateline> 
+                           <signed>GILBERT MABBOT.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON, Printed by</hi> J. C. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161782:2"/>
+            <pb n="1" facs="tcp:161782:2"/>
+            <head>The Deſignes of the Rebels in <hi>Kent,</hi> at their Randezvouz the day before the ſtorming of <hi>Maidſtone,</hi> as they were found in a perſon of qualities pocket, who was taken Priſoner, and this day ſent up to the Houſe of Commons.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was voted and agreed upon by the <hi>Kentiſh</hi> Councel of Warre, and the Gentlemen belonging to that Ar<g ref="char:EOLhyphen"/>my, that the Earle of <hi>Norwich</hi> ſhould be Generall and Comman<g ref="char:EOLhyphen"/>der in Chiefe, Eſquire <hi>Hailes</hi> vo<g ref="char:EOLhyphen"/>ted Lieutenant Generall, and Sir <hi>William Compton</hi> Major Generall, the plotted Deſigne touching the proceedings of their Army, is continued as theſe particulars doth ſpecifie.</p>
+            <p>
+               <hi>Commanders in Chiefe to be divided into Brigades, Regi<g ref="char:EOLhyphen"/>ments, and Companies, and to have neceſſary Com<g ref="char:EOLhyphen"/>manders &amp; Officers over them.</hi>
+            </p>
+            <p>All other Officers, Quartermaſters, Scoutmaſters, Muſ<g ref="char:EOLhyphen"/>termaſters,
+<pb n="2" facs="tcp:161782:3"/>Ingeniers, &amp;c. Pioneers, and their Comman<g ref="char:EOLhyphen"/>ders, and neceſſary proviſions of Shovels, Spades, Mat<g ref="char:EOLhyphen"/>tocks, Wheelebarrow, Edgerooles, &amp;c. to make defen<g ref="char:EOLhyphen"/>ces againſt Horſe, and Breſt works for Musketiers, &amp;c.</p>
+            <p>
+               <hi>Quaere.</hi> D<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kes and Fieldpeeces to fortifie the Block<g ref="char:EOLhyphen"/>houſe at <hi>Graveſend.</hi>
+            </p>
+            <p>And what courſe ſhall be taken that we may be ſup<g ref="char:EOLhyphen"/>plyed out of <hi>Eſſex</hi> when need is.</p>
+            <p>And to indeavour ſupplyes out of <hi>Suſſex.</hi>
+            </p>
+            <p>
+               <hi>Quaere.</hi> Whether not neceſſarie to fortifie <hi>Rocheſter</hi> with a Line and Forts.</p>
+            <p>To take away all Armes from the adverſe partie, and to ſecure the perſons of ſuch as are moſt powerfull, and dangerous.</p>
+            <p>If the enemy be ſtronger then we, then to have a courſe for recruit beyond <hi>Medway.</hi>
+            </p>
+            <p>To fortifie Bridges, and to break down thoſe Bridges which are not fit to be fortified, and to ſtop up the Fords.</p>
+            <p>
+               <hi>Quaere.</hi> Alſo to fortifie <hi>Tunbridge</hi> Caſtle, and the Bridge there: And to chuſe a ſelect Councel of Warre, not of verie many, to avoid confuſion in debates, and to prevent diſcoverie of ſecrets.</p>
+            <p>Another Councel or Committee to heare and diſ<g ref="char:EOLhyphen"/>parch ordinary things that the Councel of Warre be not troubled with over much beſineſſe.</p>
+            <p>
+               <hi>Quaere.</hi> How to order all Affaires when we go up with our Petition, and to ſecure <hi>Maidſto<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> &amp;c. When we are gone, to take ſpeciall Order for Intelligence.</p>
+            <p>To appoint an Officer or Commiſſary to deliver out Armes, who muſt not deliver till he is well informed to whom, and to take notice of their names.</p>
+            <pb n="3" facs="tcp:161782:3"/>
+            <p> The Tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ined Bands of <hi>Maidſtone</hi> have lent to Auxili<g ref="char:EOLhyphen"/>aries 80. Arms, who deſire to have them again, and that the Auxiliaries be otherwiſe furniſhed.</p>
+            <p>To appoint Colonells, Captains, and Officers over all the Trained Bands, and to conſider touching Volun<g ref="char:EOLhyphen"/>teers, and Auxiliaries.</p>
+            <p>By this you may perceive they had a farther intent then to petition; this machivilian plot hath bin a contri<g ref="char:EOLhyphen"/>ving this many months, and there hath been a Collecti<g ref="char:EOLhyphen"/>on of old Souldiers out of <hi>Holland,</hi> and all thoſe that have been ingaged in the <hi>Kings</hi> Service here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> hath been privately invited to come into <hi>Kent,</hi> and then to put all things in a flame, they have had as reall an intent to maintain the known Lawes of the Land, and the Proteſtant Religion, as thouſands who formerly de<g ref="char:EOLhyphen"/>clared for His <hi>Majesty,</hi> as for inſtance, on Sunday laſt, there was ſhot at <hi>Mile end</hi> one Major <hi>Hughton,</hi> a <hi>Gretian,</hi> a known Jeſuie, that hath been ſent over hither by the Pope, to foment miſchiefe in this Kingdom, ever ſince theſe unhappy d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferences hath been, a very fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inſtru<g ref="char:EOLhyphen"/>ment to fight in the behalfe of the <hi>Kentiſh</hi> and <hi>Eſſex</hi> mens Petition, to have the Covenant performed. There came on <hi>Munday</hi> laſt, a Letter from the Gentlemen of <hi>Eſſex,</hi> brought up by Mr. <hi>Rich,</hi> one of my Lord of <hi>War<g ref="char:EOLhyphen"/>wicks</hi> Sonnes, a Member of the honourable Houſe of Commons, humbly deſiring an Ordinance for Indemp<g ref="char:EOLhyphen"/>nity, ſo fully and largely as was profered to the Rebels of <hi>Kent,</hi> more, there wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Poſtſcript to that letter. from <hi>Eſsex,</hi> that there may be an Ordinance of indemonity for the remainder of thoſe forces of <hi>Kent,</hi> which
+<pb n="4" facs="tcp:161782:4"/>came from Greenwich on Sunday morning laſt, to Bowe-bridge, to have joyned with the Eſſex men: which Ordinance is granted to the Gentlemen of Eſ<g ref="char:EOLhyphen"/>ſex, and carried down <hi>per</hi> Mr. <hi>Grimſton,</hi> Mr. <hi>Rich,</hi> and other Members of the Houſe of Commons, belong<g ref="char:EOLhyphen"/>ing to that Countie: Upon which grant, they have enlarged the Committee men they impriſoned at Chelmsford, and ſubmitted to the Ordinance of Par<g ref="char:EOLhyphen"/>liament, disbanded their forces, and laid down their Armes.</p>
+            <div type="part">
+               <head>An exact Relation concerning the Paſsa<g ref="char:EOLhyphen"/>ges in <hi>Kent,</hi> ſince His Excellency my Lord <hi>Fairfax,</hi> marched over <hi>Medway</hi> River,</head>
+               <p>AFter my Lord Generall had ſtormed Maidſtone, and ſlain near 300 men, for priſoners, horſe and armes, you ſhall have a more full account preſently, he mar<g ref="char:EOLhyphen"/>ched from Maidſtone to Rocheſter on Satur<g ref="char:EOLhyphen"/>day in the afternoon, where he found the Re<g ref="char:EOLhyphen"/>bels fled, and the people very full of diſcon<g ref="char:EOLhyphen"/>tent, by which means they diſcovered 1000 armes which was hid privately in that town: the women reviled, with curſes in their mouthes, againſt Goring, Hayles, and Comp<g ref="char:EOLhyphen"/>ton,
+<pb n="5" facs="tcp:161782:4"/>who had engaged their husbands, and now betraid them, curſing them for bringing in a company of ſtrange Officers and ſouldi<g ref="char:EOLhyphen"/>ers, that were not known to the Country, ſwearing they were not a quarter of them Gentlemen and countrymen of that County, but were ſtrangers, privately invited out of other countries, to make their county a ſeat of war, this was the lowd out cry of all the com<g ref="char:EOLhyphen"/>mon people in Rocheſter. They did report of a moſt vilde proſane wretch, a Knight who hath been a great man for the King ever ſince theſe troubles began, his name is, Sir Gamaliel Dudley, who ſwore, becauſe the Citizens came no faſter in to their army, he would come up to London to commit all the ſins he could, to draw Gods judgements and plagues upon the City and citizens, both men, women and children.</p>
+               <p>There were a great many loftie, deſperate, and diſ<g ref="char:EOLhyphen"/>contented minded ſpirits, amongſt them at Maidſtone, that were taken priſoners in the Town, as for inſtance, a yong fellow, who was ſometimes a ſervant and Clark to one <hi>Beſt</hi> of Kent, his ſtomack was ſo great becauſe he was taken priſoner, that he hanged himſelf with a Bell rope, in the Church where the priſoners were in Maidſtone.</p>
+               <p>My Lord Gentrall is in very good health, and went
+<pb n="6" facs="tcp:161782:5"/>yeſterday to <hi>Chattham</hi> being invited to dine with the Commanders of the N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vy a ſhipboard.</p>
+               <p>There is taken three times as many Priſoners and Horſe, as was by the firſt true <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence computed, they carry themſelves ſo ſi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ently that as yet we do not ſo ful<g ref="char:EOLhyphen"/>ly underſtand their qualities as we ſhall hereafter, we have 1500. Priſoners in hold, beſides great numbers my Lord Gen. hath diſcharged and ſent to their own homs, which were ſeduced Countreymen; for all thoſe wee paſſe by.</p>
+               <p>We have taken in all 1400. horſe, 4000. Arms, and 1500. Priſoners as I named before, a great many of he Horſe are exceeding good ones, Sir <hi>Iohn Many</hi> was ſlain, but not diſcovered ſo to be until <hi>Sunday</hi> laſt, he charged in that Troope which his Excellency killed and tooke moſt of them priſoners, when he made the onſet on <hi>Maidſtone.</hi> The Troope was ſaid to be <hi>Squire Hales,</hi> own Troope, advanced by his one particular.</p>
+               <closer>
+</closer>
+               <postscript>
+                  <opener>
+                     <dateline>From Richmond <date>May the 27. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>The Gen. own Regiment of Horſe, with Col. <hi>Harri<g ref="char:EOLhyphen"/>ſons</hi> Regiment of horſe, with a proportionall number of foot, are come in to the aſſiſtance of Major Gen. <hi>Lam<g ref="char:EOLhyphen"/>bert,</hi> ſo that they are in all 600. and they are able to take the field, and we doubt not but that we ſhall have very ſuddenly a good account of their proceedings againſt <hi>Langdale</hi> and <hi>Musgrave.</hi>
+                  </p>
+               </postscript>
+               <postscript>
+                  <p>Jmprimatur</p>
+                  <closer>
+                     <signed>GILBERT MABBOT.</signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
